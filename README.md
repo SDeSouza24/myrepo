@@ -1,4 +1,4 @@
 # myrepo
 Repository for testing my Git/GitHub setup
  I am here. test
- lorem lorem
+ lorem lorem 2
